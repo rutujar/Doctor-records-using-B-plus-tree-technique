@@ -4,4 +4,4 @@
 It is a File Structures Mini project under 2015 CBCS scheme.
 
 
-For more details contact me rutujarajesh23@gmail.com
+For more details contact me.
